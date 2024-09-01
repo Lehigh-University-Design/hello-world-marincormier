@@ -1,6 +1,8 @@
 body{
     background-color: aqua;
+    background-image: repeating-linear-gradient( rgb(85, 128, 0), blue 10%, rgb(255, 0, 221) 20% );
     font-size: 30px;
+    border: 15px solid rgb(0, 0, 0);
     margin: 100px;
 }
 
